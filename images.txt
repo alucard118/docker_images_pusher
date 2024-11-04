@@ -7,3 +7,13 @@ collabora/code
 diygod/rsshub
 pgvector/pgvector
 infiniflow/ragflow
+redis
+postgres
+node
+httpd
+mongo
+mariadb:10.11
+wordpress
+php:8.2
+nextcloud
+phpmyadmin
