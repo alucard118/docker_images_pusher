@@ -17,4 +17,4 @@ wordpress
 php:8.2
 nextcloud
 phpmyadmin
-we-mp-rss
+ghcr.io/rachelos/we-mp-rss:latest
