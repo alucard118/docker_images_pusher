@@ -1,3 +1,4 @@
+linuxserver/piwigo:latest
 cooderl/wewe-rss
 cooderl/wewe-rss:v2.6.1
 mysql:8.3.0
