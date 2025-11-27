@@ -18,4 +18,3 @@ php:8.2
 nextcloud
 phpmyadmin
 ghcr.io/rachelos/we-mp-rss:latest
-linuxserver/piwigo:latest
