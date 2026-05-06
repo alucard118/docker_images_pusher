@@ -19,3 +19,4 @@ php:8.2
 nextcloud
 phpmyadmin
 ghcr.io/rachelos/we-mp-rss:latest
+nikolaik/python-nodejs:python3.11-nodejs20
